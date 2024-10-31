@@ -4,7 +4,7 @@
 A game chasing and catching a enemy.  Press the cursor keys to move your dot.  The enemy randomly move.  If you catch the enemy, you win.  But the enemy attack you, you lose.
 
 ## Demo
-
+https://merinowool100.github.io/G02_grid_chase/
 
 ## Key features
 Used Math.floor and Math.random to move enemy.  And set move area within the grid by applying Math.min and Math.max for x-axis and y-axis.
